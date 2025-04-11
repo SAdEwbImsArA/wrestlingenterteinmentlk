@@ -1,0 +1,113 @@
+body {
+    background-color: #313131;
+    background-image: url(bg.png);
+    background-repeat: repeat-y;
+}
+
+
+  
+
+.topnav {
+    background-color: #00000046;
+    overflow: hidden;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 25px;
+    display: block;
+    border: #fe000000;
+    font-weight: bolder;
+    border-radius: 10px;
+    border-style: outset;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-style: italic;
+}
+
+.topnav a:hover {
+    background-color: #00000000;
+    color: #FE0000;
+
+}
+
+.topnav-right {
+    background-color: #00000000;
+    float: right;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border: #576bdf00;
+}
+
+.con1{
+    background-color: #161616ab;
+    width: 350px;
+    height: 500px;
+    float: left;
+    margin: 25px;
+    border-radius: 15px;
+    padding: 0%;
+}
+
+.txt1{align
+    -items: center;
+    color: #FE0000;
+}
+
+.imgraw{
+    width: 350px;
+    height: 417px;
+    border-radius: 15px;
+    margin: auto;
+    padding: 0%;
+}
+
+.txtraw{
+    text-align: center;
+    color: #ffffff;
+}
+
+.imgpg{
+    margin-left: 30px;
+    margin-top: 30px;
+    width: 500px;
+    border-radius: 30px;
+    float: left;
+}
+
+.txtpg{
+    float: left;
+    margin: 50px;
+    color: #ffffff;
+    text-shadow: #313131;
+    margin-right: 700px;
+}
+
+.pglive{
+    background-color: #313131;
+    color: #313131;
+    width: 300px;
+    height: 70px;
+    float: left;
+    margin-left: 50px;
+    border-style: outset;
+    border-color: #FE0000;
+    border-radius: 12px;
+    margin-top: 20px;
+    margin-right: 700px;
+}
+
+.pglivetxt{
+    color: #ffffff;
+    width: 250px;
+    text-align: center;
+    size: 270px;
+    margin-left: 20px;
+}
